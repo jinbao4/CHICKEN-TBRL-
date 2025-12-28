@@ -1,13 +1,13 @@
-# IntelliJ IDEA
+# IntelliJ
 .idea/
 *.iml
+
+# Maven
+target/
 
 # Gradle
 .gradle/
 build/
-
-# Maven
-target/
 
 # OS junk
 .DS_Store
@@ -15,10 +15,3 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Plugin runtime files (never commit)
-run/
-plugins/
-world/
-world_nether/
-world_the_end/
