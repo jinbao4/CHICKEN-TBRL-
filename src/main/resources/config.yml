@@ -1,0 +1,42 @@
+# ===============================
+# Chicken Plugin Configuration
+# ===============================
+
+# -------------------------------
+# Tuff Mace Settings
+# -------------------------------
+
+fall-distance:
+  minimum: 1.5
+  maximum: 15.0
+
+damage:
+  minimum-final: 1.0
+
+critical-hits:
+  scale-bonus: true
+
+density:
+  affects-players: false
+  multiplier-per-level: 0.5
+
+smash:
+  phase1:
+    max: 3.0
+    damage-per-block: 4.0
+
+  phase2:
+    max: 5.0
+    damage-per-block: 2.0
+
+  phase3:
+    damage-per-block: 1.0
+
+
+# -------------------------------
+# Yakub Egaps Settings
+# -------------------------------
+
+egaps:
+  # Default: 5
+  max-per-player: 5

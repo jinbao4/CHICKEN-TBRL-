@@ -1,0 +1,4 @@
+name: chicken
+version: '1.0-SNAPSHOT'
+main: your.mom.com.chicken.Chicken
+api-version: '1.21'
