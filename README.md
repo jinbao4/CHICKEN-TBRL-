@@ -6,7 +6,7 @@
   - Optional crit scaling
   - Fully configurable damage phases
 
-- **EApple Limiter**
+- **Egaps Limiter**
   - Limits how many egaps a player can hold
   - Blocks bundle-based egap exploits
   - Enforced on pickup, join, and inventory actions
